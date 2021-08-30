@@ -1,0 +1,23 @@
+{
+  "name": "2021-08-23",
+  "version": "1.0.0",
+  "description": "1. 以 \"/*\" 作为数据序列开始标识符，以 \"\\*/\" 作为结束标识符, 数据默认以ASCII码形式传输.\r 2. 以500ms的频率传输以下数据",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senlion-guozeping/Serial-Dummy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senlion-guozeping/Serial-Dummy/issues"
+  },
+  "homepage": "https://github.com/senlion-guozeping/Serial-Dummy#readme"
+}

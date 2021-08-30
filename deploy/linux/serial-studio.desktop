@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Serial Studio
+Comment=Multi-purpose serial data visualization & processing program
+Exec=serial-studio
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Electronics;Engineering;Science;
+Icon=serial-studio
